@@ -3,6 +3,7 @@
   щоб гарантувати, що перший елемент завжди буде рядком, а другий числом?
 */
 
+type Persone = [string, number];
 let person = ['Max', 21];
 
 export {};
